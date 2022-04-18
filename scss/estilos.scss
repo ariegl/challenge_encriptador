@@ -1,0 +1,10 @@
+//colores
+$principal: #0A3871;
+$blanco: #E7E7E7;
+
+
+//Modificando valores
+$primary: $principal;
+$light: $blanco;
+
+@import "../libs/bootstrap/scss/bootstrap"
